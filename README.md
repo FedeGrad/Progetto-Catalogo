@@ -1,3 +1,6 @@
 # Progetto-Catalogo
-Progetto Java Back-End con Framework Spring Boot
-Servizio REST di un Catalogo libri con: inserimento, modifica, cancellazione e ricerca delle Entity
+Servizio REST, scritto utilizzando il Framework Spring Boot, di un Catalogo libri con gestione delle Entity tramite: 
+- inserimento
+- modifica
+- cancellazione
+- ricerca
